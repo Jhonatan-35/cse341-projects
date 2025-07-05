@@ -1,5 +1,4 @@
 const dotenv = require('dotenv');
-const { Client } = require('pg');
 dotenv.config()
 
 const MongoClient = require('mongodb').MongoClient;
