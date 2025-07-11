@@ -19,8 +19,11 @@
   },
   "dependencies": {
     "@dotenvx/dotenvx": "^1.46.0",
+    "body-parser": "^2.2.0",
     "express": "^5.1.0",
-    "mongodb": "^6.17.0"
+    "mongodb": "^6.17.0",
+    "swagger-autogen": "^2.23.7",
+    "swagger-ui-express": "^5.0.1"
   },
   "devDependencies": {
     "dotenv": "^17.0.1"
