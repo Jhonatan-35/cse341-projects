@@ -12,12 +12,12 @@ content-type: application/json
 
 {
     
-    "firstname": "Deysi",
-    "lastname": "Yugsan",
-    "email": "deysiyugsan@gmail.com",
-    "favorite color": "pink",
-    "birthday": "10 november",
-    "Job": "Developer"
+    "firstName": "Teresa",
+    "lastName": "Pomatoca",
+    "email": "Josepomatoca@gmail.com",
+    "favoriteColor": "green",
+    "birthday": "26 June"
+    
 
 }
 
